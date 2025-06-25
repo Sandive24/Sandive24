@@ -1,37 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=HELLO" alt="Typing SVG" />
-</p>
+![readmebox](https://github.com/galihap76/galihap76/assets/83481679/e1585443-d73e-43e8-a952-1dc6d4ea327e)
 
-## 👋 Little About Me
+<hr/>
 
-Hello, my name is Ahmad Nur Ikhsan — you can call me Ikhsan.  
-I am passionate about **backend development**, **data analysis**, and **penetration testing**.  
-I enjoy building backend systems and exploring security vulnerabilities.  
-I use **Python** for automation and exploit development, and **MySQL**/**Laravel** for backend work.  
-Currently, I'm learning more about **data-driven development** and **cybersecurity tools**.
+**Tentang Saya**
 
----
+Halo, saya Ahmad Nur Ikhsan, seorang fresh graduate yang tertarik pada pengembangan backend dan analisis data. Saya biasa menggunakan Python dan SQL, serta suka mengolah data dengan Pandas, Matplotlib, dan Seaborn.
+Saya juga senang eksplorasi API, otomatisasi, dan membuat alat sederhana untuk mempermudah pekerjaan.
+Saya suka belajar hal baru dan menikmati proyek yang berhubungan dengan data.
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandive24&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
+<hr/>
 
-## 🚀 Most Used Languages
+**Github Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandive24&layout=compact&theme=dark" />
-</p>
+| <a href="https://github.com/sandive24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandive24&show_icons=true&bg_color=0000&include_all_commits=true&rank_icon=github" alt="Ahmad Nur Ikhsan github stats" /></a> | <a href="https://github.com/sandive24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandive24&langs_count=10&hide_progress=true&hide=batchfile,java,pascal,hack,roff,shell,scss,jupyter%20notebook&layout=compact&bg_color=0000" /></a> |
+| ------------- | ------------- |
 
----
+<hr/>
 
-## 🔗 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmad-nur-ikhsan)  
-[![Blog](https://img.shields.io/badge/Blog-sandive-blue?style=flat-square&logo=blogger)](https://linkblogkamu.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-ikhsan-blue?style=flat-square&logo=facebook)](https://facebook.com/ikhsan)
-
----
-
-⭐️ _Thanks for visiting my profile! Let's connect and build something amazing together._
+> Most project repositories use the Indonesian language. A repository project that uses English is intended for international audiences.
