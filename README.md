@@ -34,4 +34,4 @@ Currently, I'm learning more about **data-driven development** and **cybersecuri
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let's connect and build something amazing together.*
+⭐️ _Thanks for visiting my profile! Let's connect and build something amazing together._
