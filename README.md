@@ -30,3 +30,7 @@ Saya suka belajar hal baru dan menikmati proyek-proyek yang berhubungan dengan *
 <a href="https://www.linkedin.com/in/ikhsan24/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<a href="" target="[_blank](https://drive.google.com/file/d/1N56iwa4v6VQQkKun_4rscPjtGxGuwEt8/view?usp=drive_link)">
+  <img src="https://img.shields.io/badge/CV-View-blueviolet?style=for-the-badge&logo=readme&logoColor=white" alt="CV View Only" />
+</a>
