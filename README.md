@@ -31,7 +31,8 @@ Saya suka belajar hal baru dan menikmati proyek-proyek yang berhubungan dengan *
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://drive.google.com/file/d/1N56iwa4v6VQQkKun_4rscPjtGxGuwEt8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+
+<a href="https://drive.google.com/file/d/1N56iwa4v6VQQkKun_4rscPjtGxGuwEt8/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CV-GoogleDrive-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lihat CV di Google Drive" />
 </a>
 
