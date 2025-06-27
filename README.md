@@ -28,14 +28,14 @@ Saya suka belajar hal baru dan menikmati proyek-proyek yang berhubungan dengan *
 ## 🔗 Kontak
 
 <a href="https://anikhsan.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🌐 Website-Anikhsan.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Ahmad Nur Ikhsan" />
+  <img src="https://img.shields.io/badge/🌐 Website-Link-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Ahmad Nur Ikhsan" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ikhsan24/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Ikhsan24-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ahmad Nur Ikhsan" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ikhsan24-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1N56iwa4v6VQQkKun_4rscPjtGxGuwEt8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CV-GoogleDrive-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV English" />
+  <img src="https://img.shields.io/badge/CV-GoogleDrive-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
 </a>
