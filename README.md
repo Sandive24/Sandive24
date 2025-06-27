@@ -25,7 +25,7 @@ Saya suka belajar hal baru dan menikmati proyek-proyek yang berhubungan dengan *
 
 ---
 
-## 🔗 Kontak, Website & CV
+## 🔗 Kontak
 
 <a href="https://anikhsan.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐 Website-Anikhsan.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Ahmad Nur Ikhsan" />
